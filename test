@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+    printf("U R Idiot!\n");
+    return 0;
+}
